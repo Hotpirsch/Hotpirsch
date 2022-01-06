@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hotpirsch
 - 👀 I’m interested in technology
-- 🌱 I’m currently learning ConnectIQ progamming for Garmin wearables
+- 🌱 I’m currently learning Cloud Custodian policy development
 - 💞️ I’m looking to collaborate on cloud native architecture
 - 📫 How to reach me: git@christoph-krueger.de
 
